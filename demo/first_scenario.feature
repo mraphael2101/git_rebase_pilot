@@ -4,3 +4,4 @@ Feature: # Enter feature name here
 
   Scenario: # Enter scenario name here
     Given I make a change to demonstrate git rebase concept
+    And I add a new test step
