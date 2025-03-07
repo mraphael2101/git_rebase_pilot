@@ -2,5 +2,5 @@
 Feature: # Enter feature name here
   # Enter feature description here
 
-  Scenario: # Enter scenario name here
+  Scenario: Addition happy path
     # Enter steps here
