@@ -12,8 +12,14 @@ Feature: # Enter feature name here
       |Attr           |
       |Some value     |
 
+
   Scenario: Negative test
     Given I make a change to demonstrate git rebase concept
     And I add a new test step
     And I add another test step
+    And I click pay
+
+  Scenario: Negative test 2
+    Given I make a change to demonstrate git rebase concept
+    And I add a new test step
     And I click pay
