@@ -1,6 +1,7 @@
-# Created by mark.raphael at 10/3/25
-Feature: # Enter feature name here
-  # Enter feature description here
+Feature:
+  As a...
+  I want to...
+  So that...
 
-  Scenario: # Enter scenario name here
+  Scenario: Billing test scenario
     # Enter steps here
