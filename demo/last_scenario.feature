@@ -4,4 +4,4 @@ Feature:
   So that...
 
   Scenario: Billing test scenario
-    # Enter steps here
+    Given I am on the landing page
